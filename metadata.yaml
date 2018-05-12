@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '40635'
     url: http://www.gutenberg.org/2009/agents/40635
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38149#Two-Burlesques-of-Lord-Chesterfield-s-Letters.The-Graces--1774--The-Fine-Gentleman-s-Etiquett_
 gutenberg_issued: '2011-11-27'
 gutenberg_type: Text
 identifiers:
