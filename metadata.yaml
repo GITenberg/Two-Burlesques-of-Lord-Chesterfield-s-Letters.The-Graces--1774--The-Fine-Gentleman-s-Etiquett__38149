@@ -1,0 +1,44 @@
+_repo: Two-Burlesques-of-Lord-Chesterfield-s-Letters.The-Graces--1774--The-Fine-Gentleman-s-Etiquett__38149
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Woty, William
+    aliases:
+    - Wotty, Mr. (William)
+    - Copywell, J. (James)
+    - Copywell, Jemmy
+    - Copywell, James
+    - Woty, W. (William)
+    deathdate: 1791
+    gutenberg_agent_id: '44366'
+    url: http://www.gutenberg.org/2009/agents/44366
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Gulick, Sidney L. (Sidney Lewis)
+    alias: Gulick, Sidney Lewis
+    birthdate: 1902
+    deathdate: 1988
+    gutenberg_agent_id: '40635'
+    url: http://www.gutenberg.org/2009/agents/40635
+description: ''
+gutenberg_issued: '2011-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38149'
+  lccn: '60063102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 81
+subjects:
+- !lcc 'PR'
+- !lcsh 'Chesterfield, Philip Dormer Stanhope, Earl of, 1694-1773. Letters to his
+  son'
+title: 'Two Burlesques of Lord Chesterfield''s Letters.
+
+  The Graces (1774), The Fine Gentleman''s Etiquette (1776)'
+url: http://www.gutenberg.org/ebooks/38149
